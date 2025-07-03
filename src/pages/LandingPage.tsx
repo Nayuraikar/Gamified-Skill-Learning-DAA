@@ -148,10 +148,10 @@ const LandingPage = () => {
           className="text-center mb-16"
         >
           <h2 className={`text-4xl font-bold ${customBlueText} mb-4`}>
-            Powerful Features
+            Features
           </h2>
           <p className="text-xl text-[#232946] dark:text-slate-300 max-w-2xl mx-auto">
-            Experience the future of learning with our cutting-edge algorithms and beautiful visualizations
+            Make learning fun and effective with smart algorithms that guide what you study, when you review, how you’re rewarded, and how your progress is tracked. Everything is designed to match your pace and help you learn better—step by step.
           </p>
         </motion.div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
